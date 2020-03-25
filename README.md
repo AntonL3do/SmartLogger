@@ -11,3 +11,8 @@ Todos los registros se guardarán en el mismo directorio donde se encuentre el p
 (!)AVISO: En ningún caso modifique el archivo de registro 'log_DB.txt', de lo contrario causará un error en el programa. Si desea eliminar el registro acumulado simplemente elimine el archivo o cambie su nombre.
 
 Sistema operativo: Mínimo Windows 2000 Professional.
+
+# Descarga:
+En este repositorio se encuentran:
+- Los archivos .cpp y .h con los que poder compilar el código en cualquier editor.
+- El ejecutable .exe previamente compilado para los usuarios que deseen usarlo sin complicaciones.
